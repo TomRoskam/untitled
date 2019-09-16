@@ -1,0 +1,1 @@
+public class Main {public int first_NUmber = 1; public static void main(String [] args){for(int i = 0; i<56 ; i++) {System.out.println(i + i);if(i == 6 - i){ System.out.println(i*2);}else if( i==i - i + i*12 ){System.out.println("WhaWha gertje");}else{ System.out.println(i/2); a}}}}
